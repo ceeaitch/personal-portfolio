@@ -14,7 +14,7 @@ a {
 }
 
 a:hover {
-    color: #388E3C !important;
+    color: #EFB100 !important;
 }
 
 body {
@@ -41,7 +41,7 @@ nav .logo {
 
 nav .logo i {
     font-size: 26px;
-    color: #388E3C;
+    color: #EFB100;
 }
 
 nav .links {
@@ -62,7 +62,7 @@ nav .links a {
 
 nav .links a.active {
     font-weight: bold;
-    color: #388E3C;
+    color: #EFB100;
 }
 
 .about {
@@ -123,7 +123,7 @@ nav .links a.active {
 }
 
 .about .left .info .buttons button.hire:hover {
-    background: #4CAF50;
+    background: #EFB100;
 }
 
 .about .left .info .buttons button.email {
@@ -151,7 +151,7 @@ footer a.online {
 
 .about .right a.online i,
 footer a.online i {
-    color: #4CAF50;
+    color: #EFB100;
     font-size: 9px;
 }
 
@@ -211,7 +211,7 @@ footer a.online i {
 }
 
 .works .left .works-list .item .work-info h5.active {
-    color: #388E3C;
+    color: #EFB100;
 }
 
 .works .left .works-list .item .work-info p {
@@ -251,7 +251,7 @@ footer a.online i {
 }
 
 .works .right .item:hover a {
-    color: #388E3C;
+    color: #EFB100;
 }
 
 .works .right .item a {
